@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a748280-4215-49f6-875d-cae12349bdef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Basic-Programs/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic-Programs/AreaOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic-Programs/AverageOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic-Programs/CelsiusToFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic-Programs/HelloBridgelabz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic-Programs/KmToMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic-Programs/PerimeterOfRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic-Programs/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic-Programs/VolumeOfCylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/AgeOfHarry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/AvgMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/DistanceConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/EarthVolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/FeeDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/Handshakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/HeightConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/KmToMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/KmToMilesUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/PensDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/Profit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/SquareSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/StudentFee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/TotalPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level1/TriangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level2/DistanceConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level2/DoubleOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level2/IntOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level2/QuotientRemainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level2/SquareSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level2/TotalPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primitive-Data-Type/Level2/TriangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/ArrayExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/Array_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/Array_reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/Contniue_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/Do_whileloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/Even_num_contniue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/For_each_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/For_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/Nested_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/Switch_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/VariableExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/Vote_eligible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/While_basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work_Shop/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/ArrayInput" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/ArrayInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/ArrayInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/Array_sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/Array_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/Nested_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/PrintArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/PrintArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/SwitchExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/TwoDArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/class RelationalOperatorExample {.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/class Student .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/class Student .java1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/class Student .java123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/classArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/dsa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/lass Student .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/shivam .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/switch Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/while_basic.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="39pFR1WCbjUUvkCGPlv6JXjoDkt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Work__Shop&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/BridgeLabz&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a748280-4215-49f6-875d-cae12349bdef" name="Changes" comment="" />
+      <created>1771385093455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771385093455</updated>
+    </task>
+    <servers />
+  </component>
+</project>
