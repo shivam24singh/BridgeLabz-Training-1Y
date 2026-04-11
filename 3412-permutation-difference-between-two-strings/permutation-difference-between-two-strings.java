@@ -8,7 +8,7 @@ class Solution {
                    if(a<0){
                     a = -a;
                    }
-                   sum = sum+a;
+                   sum += a;
                 }
             }
         }
