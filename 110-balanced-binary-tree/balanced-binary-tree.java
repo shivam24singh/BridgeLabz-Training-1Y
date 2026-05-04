@@ -9,7 +9,7 @@ class Solution {
         }
 
         int left = checkHeight(node.left);
-        if (left == -1) return -1;
+        if (left == -1) return -1;     
 
         int right = checkHeight(node.right);
         if (right == -1) return -1;
